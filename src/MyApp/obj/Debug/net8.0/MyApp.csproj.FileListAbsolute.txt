@@ -1,0 +1,14 @@
+C:\AzureDevOps\MyApp\src\MyApp\bin\Debug\net8.0\MyApp.exe
+C:\AzureDevOps\MyApp\src\MyApp\bin\Debug\net8.0\MyApp.deps.json
+C:\AzureDevOps\MyApp\src\MyApp\bin\Debug\net8.0\MyApp.runtimeconfig.json
+C:\AzureDevOps\MyApp\src\MyApp\bin\Debug\net8.0\MyApp.dll
+C:\AzureDevOps\MyApp\src\MyApp\bin\Debug\net8.0\MyApp.pdb
+C:\AzureDevOps\MyApp\src\MyApp\obj\Debug\net8.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\AzureDevOps\MyApp\src\MyApp\obj\Debug\net8.0\MyApp.AssemblyInfoInputs.cache
+C:\AzureDevOps\MyApp\src\MyApp\obj\Debug\net8.0\MyApp.AssemblyInfo.cs
+C:\AzureDevOps\MyApp\src\MyApp\obj\Debug\net8.0\MyApp.csproj.CoreCompileInputs.cache
+C:\AzureDevOps\MyApp\src\MyApp\obj\Debug\net8.0\MyApp.dll
+C:\AzureDevOps\MyApp\src\MyApp\obj\Debug\net8.0\refint\MyApp.dll
+C:\AzureDevOps\MyApp\src\MyApp\obj\Debug\net8.0\MyApp.pdb
+C:\AzureDevOps\MyApp\src\MyApp\obj\Debug\net8.0\MyApp.genruntimeconfig.cache
+C:\AzureDevOps\MyApp\src\MyApp\obj\Debug\net8.0\ref\MyApp.dll
