@@ -1,3 +1,3 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("MyApp started successfully");
-Console.WriteLine("Branch policies");
+Console.WriteLine("Branch policies 2");
